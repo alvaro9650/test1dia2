@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">test1dia2</string>
+    <string name="datakey_name">name</string>
+    <string name="datakey_surnames">surnames</string>
+    <string name="datakey_adress">address</string>
+    <string name="datakey_cp">cp</string>
+    <string name="datakey_phone">phone</string>
+    <string name="datakey_email">email</string>
+    <string name="datakey_user">user</string>
+    <string name="datakey_password">password</string>
+    <string name="error_msg_pass_length">La contraseña ha de ser de 8 digitos</string>
+    <string name="error_msg_user_length">El usuario ha de ser de 8 digitos</string>
+    <string name="error_msg_cp_length">El codigo postal ha de ser de 5 digitos</string>
+    <string name="error_msg_email_needs_dot">El email no tiene \".\"</string>
+    <string name="error_msg_email_needs_at">El email no tiene \"@\"</string>
+    <string name="error_msg_empty_name">El nombre no puede estar vacio</string>
+    <string name="error_msg_empty_surname">El apellido no puede estar vacio</string>
+    <string name="error_msg_empty_address">La direccion no puede estar vacia</string>
+    <string name="error_msg_empty_cp">El codigo postal no puede estar vacio</string>
+    <string name="error_msg_empty_phone">El telefono no puede estar vacio</string>
+    <string name="error_msg_empty_email">El email no puede estar vacio</string>
+    <string name="error_msg_empty_user">El usuario no puede estar vacio</string>
+    <string name="error_msg_empty_pass">La contraseña no puede estar vacia</string>
+    <string name="name">Nombre</string>
+    <string name="surnames">Apellido</string>
+    <string name="address">Direccion</string>
+    <string name="postal_code">Codigo Postal</string>
+    <string name="phone">Telefono</string>
+    <string name="email">Email</string>
+    <string name="user">Usuario</string>
+    <string name="pass">Clave</string>
+    <string name="verify_button">Boton verificar</string>
+    <string name="input_student_data">Introducir datos alumno</string>
+</resources>
